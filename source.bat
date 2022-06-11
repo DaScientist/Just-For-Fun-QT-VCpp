@@ -1,0 +1,1 @@
+set CMAKE_MODULE_PATH=C:\opt\ros\melodic\x64;
